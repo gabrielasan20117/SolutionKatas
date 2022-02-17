@@ -1,2 +1,2 @@
 # SolutionKatas
-Soluciones creadas para el curso de LAUNCH X
+Soluciones creadas para el curso de LAUNCH X 😊👩‍💻
